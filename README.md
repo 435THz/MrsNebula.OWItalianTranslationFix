@@ -1,5 +1,7 @@
 # Outer Wilds Italian Localization Fix
 
+![Splash](/OWItalianLocalFix/img/thumbnail.png)
+
 This mod contains an improved italian localization table, which is added to the game as a new language option.
 
 The italian translation isn't too bad usually, but a few dialogues contain some errors that are inexcusable, while others can make the process of understanding the game's story much more difficult than it needs to be, or even render some sentences pretty much nonsensical.
